@@ -1,0 +1,4 @@
+email,password,expected_result
+auto_test_1789484613@example.com,TestPassword123,success
+auto_test_1789484613@example.com,WrongPass123,failure
+invalid_user_99999@example.com,Password123,failure
